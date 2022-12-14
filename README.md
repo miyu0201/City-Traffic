@@ -9,5 +9,5 @@ sends a signal to the traffic light system to request for a dynamic change in it
 grants the pedestrian priority for crossing.
 The digital twin was developed in Unity, using NavMesh as the data structure to utilize pathfinding to
 simulate the dynamic traffic flow.
-
+<p>Demo Video: https://www.youtube.com/watch?v=gTXqqU1DWXg</p>
 <img src="https://github.com/miyu0201/City-Traffic/blob/main/game screen.PNG" width="900">
